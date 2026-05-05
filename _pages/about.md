@@ -61,7 +61,7 @@ I have taught a range of courses in computer science and data science, including
 - Advanced Computer Architecture
 - Operating System Course Design
 - Design Computing Studio II
-- Internship and final year project
+- Internship and Final Year Project
 
 ## Awards & Certificates
 
