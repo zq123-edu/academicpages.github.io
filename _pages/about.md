@@ -65,21 +65,21 @@ I have taught a range of courses in computer science and data science, including
 
 ## Awards & Certificates
 
-- CityU New Scholar Teaching Excellence Award, 2024/2025 academic year
-- Research Commendation, 2024/2025 academic year
-- Outstanding Social Practice Advisor, Cooperation Zone, 2025
-- Third Prize, the 1st Teacher Teaching Innovation Competition, Cooperation Zone, 2025
-- Research Commendation, 2023/2024 academic year
-- Second Prize, the 15th APMCM Asia-Pacific College Students Mathematical Contest in Modeling, 2025, as advisor
-- Second Prize, the 22nd "Huawei Cup" China Graduate Mathematical Contest in Modeling, 2025, as advisor
-- Second Prize, the 5th MathorCup Mathematical Application Challenge - Big Data Competition, 2024, as advisor
-- Third Prize, the 21st "Huawei Cup" China Graduate Mathematical Contest in Modeling, 2024, as advisor
-- Third Prize, the 12th National College Student Digital Media Technology Works and Creativity Competition, 2024, as advisor
+- 2025 2024/2025 學年城大新學者教學卓越奬
+- 2025 2024/2025 學年科研嘉許
+- 2025 試驗區優秀社會實踐指導教師
+- 2025 首届試驗區教師教學創新大賽三等獎
+- 2024 2023/2024 學年科研嘉許
+- 2025 第十五届APMCM亞太地區大學生數學建模競賽二等獎（指導老師）
+- 2025 “華爲杯”第二十二届中國研究生數學建模競賽二等獎（指導老師）
+- 2024 第五届MathorCup數學應用挑戰賽—大數據競賽二等獎（指導老師）
+- 2024 “華爲杯”第二十一届中國研究生數學建模競賽三等獎（指導老師）
+- 2024 第十二届全國大學生數字媒體科技作品及創意競賽三等獎（指導老師）
 
 ## Research Projects
 
-- Open Project of Xiamen Software Supply Chain Security Public Technology Service Platform (GYL2025007), Principal Investigator, 2025.06-2027.05, ongoing
-- Annual Funding Scheme for Higher Education Institutions, Education Fund, 2025/2026 academic year, Principal Investigator, completed
+厦門市軟件供應鏈安全公共技術服務平臺開放課題（GYL2025007），主持，在研（2025.06 ~ 2027.05） 
+教育基金資助項目—2025/2026學年高等院校年度資助計劃，主持，結項。
 
 ## Professional Service
 
