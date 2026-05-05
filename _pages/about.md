@@ -48,10 +48,12 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 13. Long, J., **Zhang, Q.**, Lu, X., Wen, J., Zhao, L., & Xie, W. (2024). Multi-scale locality preserving projection for partial multi-view incomplete multi-label learning. *Neural Networks*, 106748. (SCIE, JCR Q1)
 14. Zhang, X., **Zhang, Q.\***, Li, P., You, J., Sun, J., & Zhou, J. (2024). Multi-Feature Extraction and Selection Method to Diagnose Burn Depth from Burn Images. *Electronics*, 13(18), 3665. (SCIE, JCR Q2)
 15. Du, X., **Zhang, Q.\***, Zhu, J., & Liu, X. (2024). Adaptive unified defense framework for tackling adversarial audio attacks. *Artificial Intelligence Review*, 57(8), 218. (SCIE, JCR Q1)
+16. Zhu, L.*, **Zhang, Q.\***, Chen, K., Ma, Q., Chen, S., Zhang, S., & Yuan, Y. (2024). Lightweight Self-Supervised Recognition of Small-Sample Ships Using Micro-Doppler Signatures and UAV-based UWB Radar. IEEE Transactions on Instrumentation and Measurement. (SCIE, JCR Q1)
+17. Zhou, J., **Zhang, Q.**, Zeng, S., Zhang, B., & Fang, L. (2024). Latent linear discriminant analysis for feature extraction via isometric structural learning. Pattern Recognition, 110218. (SCIE, JCR Q1)
 
 ## Teaching
 
-I have taught a range of courses in computer science and intelligent computing, including:
+I have taught a range of courses in computer science and data science, including:
 
 - Introduction to Computer Science
 - Design Computing Studio I
@@ -59,6 +61,7 @@ I have taught a range of courses in computer science and intelligent computing, 
 - Advanced Computer Architecture
 - Operating System Course Design
 - Design Computing Studio II
+- Internship and final year project
 
 ## Awards & Certificates
 
