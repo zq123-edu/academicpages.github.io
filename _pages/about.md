@@ -78,8 +78,9 @@ I have taught a range of courses in computer science and data science, including
 
 ## Research Projects
 
-厦門市軟件供應鏈安全公共技術服務平臺開放課題（GYL2025007），主持，在研（2025.06 ~ 2027.05） 
-教育基金資助項目—2025/2026學年高等院校年度資助計劃，主持，結項。
+- 厦門市軟件供應鏈安全公共技術服務平臺開放課題（GYL2025007），主持，在研（2025.06 ~ 2027.05） 
+
+- 教育基金資助項目—2025/2026學年高等院校年度資助計劃，主持，結項。
 
 ## Professional Service
 
