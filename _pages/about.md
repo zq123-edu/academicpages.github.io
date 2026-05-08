@@ -33,8 +33,8 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 
 ## Selected Publications
 
-1. Zhu, Z., **Zhang, Q.\***, Gu, J.*, et al. (2026). MSSANET: Multi-scale self-attention mechanism network for polyp segmentation. Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026). (EI, Oral presentation) 
-2. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026). (EI) 
+1. Zhu, Z., **Zhang, Q.\***, Gu, J.*, et al. (2026). MSSANET: Multi-scale self-attention mechanism network for polyp segmentation. *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026)*. (EI, Oral presentation) 
+2. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026)*. (EI) 
 3. Zhou, J., Lin, Z., **Zhang, Q.**, & Gu, J. (2026). Learning with Euler Non-negative Representation for Robust Pattern Analysis. *Expert Systems with Applications*, 132229. (SCIE, JCR Q1)
 4. Zhou, J., **Zhang, Q.**, & Gu, J. (2026). Sparse subspace learning machine for pattern classification. *Information Sciences*, 123193. (SCIE, JCR Q1)
 5. Liu, J., **Zhang, Q.**, Wan, Q., Cheng, X., Geng, X., & Ding, W. (2026). DMNet: Detail modulation network with gradient-texture guidance for lightweight image super-resolution. *Journal of King Saud University - Computer and Information Sciences*. (SCIE, JCR Q1)
