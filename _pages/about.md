@@ -34,7 +34,7 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 ## Selected Publications
 
 1. Zhu, Z., **Zhang, Q.\***, Gu, J.*, et al. (2026). MSSANET: Multi-scale self-attention mechanism network for polyp segmentation. _Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI, Oral presentation) 
-2. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026)*. (EI) 
+2. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. _Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI) 
 3. Zhou, J., Lin, Z., **Zhang, Q.**, & Gu, J. (2026). Learning with Euler Non-negative Representation for Robust Pattern Analysis. *Expert Systems with Applications*, 132229. (SCIE, JCR Q1)
 4. Zhou, J., **Zhang, Q.**, & Gu, J. (2026). Sparse subspace learning machine for pattern classification. *Information Sciences*, 123193. (SCIE, JCR Q1)
 5. Liu, J., **Zhang, Q.**, Wan, Q., Cheng, X., Geng, X., & Ding, W. (2026). DMNet: Detail modulation network with gradient-texture guidance for lightweight image super-resolution. *Journal of King Saud University - Computer and Information Sciences*. (SCIE, JCR Q1)
@@ -50,8 +50,8 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 15. Long, J., **Zhang, Q.**, Lu, X., Wen, J., Zhao, L., & Xie, W. (2024). Multi-scale locality preserving projection for partial multi-view incomplete multi-label learning. *Neural Networks*, 106748. (SCIE, JCR Q1)
 16. Zhang, X., **Zhang, Q.\***, Li, P., You, J., Sun, J., & Zhou, J. (2024). Multi-Feature Extraction and Selection Method to Diagnose Burn Depth from Burn Images. *Electronics*, 13(18), 3665. (SCIE, JCR Q2)
 17. Du, X., **Zhang, Q.\***, Zhu, J., & Liu, X. (2024). Adaptive unified defense framework for tackling adversarial audio attacks. *Artificial Intelligence Review*, 57(8), 218. (SCIE, JCR Q1)
-18. Zhu, L.*, **Zhang, Q.\***, Chen, K., Ma, Q., Chen, S., Zhang, S., & Yuan, Y. (2024). Lightweight Self-Supervised Recognition of Small-Sample Ships Using Micro-Doppler Signatures and UAV-based UWB Radar. *IEEE Transactions on Instrumentation and Measurement*. (SCIE, JCR Q1)
-19. Zhou, J., **Zhang, Q.**, Zeng, S., Zhang, B., & Fang, L. (2024). Latent linear discriminant analysis for feature extraction via isometric structural learning. *Pattern Recognition*, 110218. (SCIE, JCR Q1)
+18. Zhu, L.*, **Zhang, Q.\***, Chen, K., Ma, Q., Chen, S., Zhang, S., & Yuan, Y. (2024). Lightweight Self-Supervised Recognition of Small-Sample Ships Using Micro-Doppler Signatures and UAV-based UWB Radar. _IEEE Transactions on Instrumentation and Measurement_. (SCIE, JCR Q1)
+19. Zhou, J., **Zhang, Q.**, Zeng, S., Zhang, B., & Fang, L. (2024). Latent linear discriminant analysis for feature extraction via isometric structural learning. _Pattern Recognition_, 110218. (SCIE, JCR Q1)
 
 ## Teaching
 
