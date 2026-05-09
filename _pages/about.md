@@ -6,7 +6,7 @@ author_profile: true
 
 ## About Me
 
-I am Qi Zhang, an Assistant Professor at City University of Macau. I received my Ph.D. in Computer Science from the University of Macau under the supervision of [Prof. Bob Zhang](https://www.fst.um.edu.mo/people/bobzhang/).
+I am Qi Zhang, an Assistant Professor at [City University of Macau](https://www.cityu.edu.mo/zh/). I received my Ph.D. in Computer Science from the [University of Macau](https://www.um.edu.mo/) under the supervision of [Prof. Bob Zhang](https://www.fst.um.edu.mo/people/bobzhang/).
 
 ## Academic Position
 
