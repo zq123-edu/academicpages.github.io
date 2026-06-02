@@ -33,7 +33,7 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 
 ## Selected Publications
 
-1. Li, C., **Zhang, Q.*\***, Liang, X., Xiao, Y., Li, S., & Wang, P.* (2026). BAPA-Net: Cross-domain few-shot object detection in remote sensing via background-aligned prototype aggregation. _IEEE Transactions on Geoscience and Remote Sensing_. (SCIE, JCR Q1)
+1. Li, C., **Zhang, Q.\***, Liang, X., Xiao, Y., Li, S., & Wang, P.* (2026). BAPA-Net: Cross-domain few-shot object detection in remote sensing via background-aligned prototype aggregation. _IEEE Transactions on Geoscience and Remote Sensing_. (SCIE, JCR Q1)
 2. Zhu, Z., **Zhang, Q.\***, Gu, J.*, et al. (2026). MSSANET: Multi-scale self-attention mechanism network for polyp segmentation. In _IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI, Oral presentation) 
 3. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. In _IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI) 
 4. Zhou, J., Lin, Z., **Zhang, Q.**, & Gu, J. (2026). Learning with Euler Non-negative Representation for Robust Pattern Analysis. *Expert Systems with Applications*, 132229. (SCIE, JCR Q1)
