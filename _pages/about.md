@@ -93,7 +93,9 @@ Additional professional service activities will be updated.
 
 ## Student Supervision
 
-Five master's students I have supervised have gone on to pursue doctoral degrees at universities including Sun Yat-sen University, Macao Polytechnic University, and City University of Macau. Several undergraduate students have continued their studies in master's programs at institutions such as University College London, King's College London, and University of Macau. Many graduates have also taken positions at universities and leading companies.
+- Five master's students I have supervised have gone on to pursue doctoral degrees at universities including Sun Yat-sen University, Macao Polytechnic University, and City University of Macau.
+- Several undergraduate students have continued their studies in master's programs at institutions such as University College London, King's College London, and University of Macau.
+- Many graduates have also taken positions at universities and leading companies.
 
 ## Contact
 
