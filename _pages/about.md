@@ -33,28 +33,29 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 
 ## Selected Publications
 
-1. Chen, Y., **Zhang, Q.**, Liu, W., Liu, Y., Lu, J., Wu, L., & Wen, J. (2026). Propensity-Guided Unbalanced Optimal Transport for Acquisition-Aware Incomplete Multimodal Clinical Prediction. Information Fusion, 104654.
-2. Wang, N., **Zhang, Q.**, Zhang, H., Wang, H., & Weiping, D. (2026). Takagi–sugeno fuzzy inference with kernel virtual cluster nodes for graph-based medical image classification. Applied Soft Computing, 116214.
-3. Li, C., **Zhang, Q.\***, Liang, X., Xiao, Y., Li, S., & Wang, P.* (2026). BAPA-Net: Cross-domain few-shot object detection in remote sensing via background-aligned prototype aggregation. _IEEE Transactions on Geoscience and Remote Sensing_. (SCIE, JCR Q1)
-4. Zhu, Z., **Zhang, Q.\***, Gu, J.*, et al. (2026). MSSANET: Multi-scale self-attention mechanism network for polyp segmentation. In _IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI, Oral presentation) 
-5. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. In _IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI) 
-6. Zhou, J., Lin, Z., **Zhang, Q.**, & Gu, J. (2026). Learning with Euler Non-negative Representation for Robust Pattern Analysis. *Expert Systems with Applications*, 132229. (SCIE, JCR Q1)
-7. Zhou, J., **Zhang, Q.**, & Gu, J. (2026). Sparse subspace learning machine for pattern classification. *Information Sciences*, 123193. (SCIE, JCR Q1)
-8. Liu, J., **Zhang, Q.**, Wan, Q., Cheng, X., Geng, X., & Ding, W. (2026). DMNet: Detail modulation network with gradient-texture guidance for lightweight image super-resolution. *Journal of King Saud University - Computer and Information Sciences*. (SCIE, JCR Q1)
-9. Ye, X., **Zhang, Q.\***, Wang, Y., Yang, X., Ying, Z., Sun, J., Zhong, Q., & Du, X.\* (2026). Diffbias: Harnessing diffusion models' prediction bias for adversarial patch defense. *Neurocomputing*. (SCIE, JCR Q1)
-10. Wang, J., **Zhang, Q.\***, Zhang, X., Mao, Y., Zhu, Z., & Gong, C. (2025). Dominant Period Multi-Kernel Decomposition Linear for Long Sequence Time-Series Forecasting. In *2025 5th International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC)* (pp. 923-927). IEEE. (EI)
-11. Zhang, X., **Zhang, Q.\***, Wang, J., Ma, J., & Li, P. (2025). Broad Learning System with a ShuffleNet Feature Extractor for Image Classification. In *CBASE 2025* (pp. 45-50). IEEE. (EI, Best Paper Award)
-12. Zhao, W., **Zhang, Q.\***, Shu, T., & Du, X.\* (2025). AirTrace-SA: Air Pollution Tracing for Source Attribution. *Information*, 16(7), 603. (EI, ESCI, JCR Q2)
-13. Zhu, L., Li, Y., Xia, W., Chen, K., Ma, Q., & **Zhang, Q.** (2025). An anti-clutter distance measurement method for IoT linear frequency modulation radar in heavy rainfall environments. *IEEE Internet of Things Journal*, 12(11), 17906-17919. (SCIE, JCR Q1)
-14. Zhao, W., **Zhang, Q.\***, & Shu, T. (2025). Air Pollution Source Tracing by VIME-XGBoost. In *2025 7th International Symposium on Computational and Business Intelligence (ISCBI)* (pp. 34-39). IEEE. (EI)
-15. Zhang, B., **Zhang, Q.\***, Zhang, X., Ye, X., & Duan, J. (2025). Broad Learning Model for Classification with Dual Feature Extraction and Discriminative Group-Sparsity Constraints. In *International Conference on Machine Learning and Computing* (pp. 67-80). (EI)
-16. Ke, J., **Zhang, Q.**, Wang, J., Ding, H., Zhang, P., & Wen, J. (2024). Graph-based referring expression comprehension with expression-guided selective filtering and noun-oriented reasoning. *Pattern Recognition*, 111222. (SCIE, JCR Q1)
-17. Ye, X., **Zhang, Q.\***, Cui, S., Ying, Z., Sun, J., & Du, X.\* (2024). Mitigating Adversarial Attacks in Object Detection through Conditional Diffusion Models. *Mathematics*, 12(19), 3093. (SCIE, JCR Q1)
-18. Long, J., **Zhang, Q.**, Lu, X., Wen, J., Zhao, L., & Xie, W. (2024). Multi-scale locality preserving projection for partial multi-view incomplete multi-label learning. *Neural Networks*, 106748. (SCIE, JCR Q1)
-19. Zhang, X., **Zhang, Q.\***, Li, P., You, J., Sun, J., & Zhou, J. (2024). Multi-Feature Extraction and Selection Method to Diagnose Burn Depth from Burn Images. *Electronics*, 13(18), 3665. (SCIE, JCR Q2)
-20. Du, X., **Zhang, Q.\***, Zhu, J., & Liu, X. (2024). Adaptive unified defense framework for tackling adversarial audio attacks. *Artificial Intelligence Review*, 57(8), 218. (SCIE, JCR Q1)
-21. Zhu, L.*, **Zhang, Q.\***, Chen, K., Ma, Q., Chen, S., Zhang, S., & Yuan, Y. (2024). Lightweight Self-Supervised Recognition of Small-Sample Ships Using Micro-Doppler Signatures and UAV-based UWB Radar. _IEEE Transactions on Instrumentation and Measurement_. (SCIE, JCR Q1)
-22. Zhou, J., **Zhang, Q.**, Zeng, S., Zhang, B., & Fang, L. (2024). Latent linear discriminant analysis for feature extraction via isometric structural learning. _Pattern Recognition_, 110218. (SCIE, JCR Q1)
+1. Zhang, D., **Zhang, Q.**, Hu, Y., Deng, H., Cai, L., Lin, Y., & Xu, Y. (2026). MSI-CCD: A multi-scale interaction framework with consistency–complementarity disentanglement for multi-view diabetic retinopathy grading. _Pattern Recognition_, 114707.
+2. Chen, Y., **Zhang, Q.**, Liu, W., Liu, Y., Lu, J., Wu, L., & Wen, J. (2026). Propensity-Guided Unbalanced Optimal Transport for Acquisition-Aware Incomplete Multimodal Clinical Prediction. _Information Fusion_, 104654.
+3. Wang, N., **Zhang, Q.**, Zhang, H., Wang, H., & Weiping, D. (2026). Takagi–sugeno fuzzy inference with kernel virtual cluster nodes for graph-based medical image classification. _Applied Soft Computing_, 116214.
+4. Li, C., **Zhang, Q.\***, Liang, X., Xiao, Y., Li, S., & Wang, P.* (2026). BAPA-Net: Cross-domain few-shot object detection in remote sensing via background-aligned prototype aggregation. _IEEE Transactions on Geoscience and Remote Sensing_. (SCIE, JCR Q1)
+5. Zhu, Z., **Zhang, Q.\***, Gu, J.*, et al. (2026). MSSANET: Multi-scale self-attention mechanism network for polyp segmentation. In _IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI, Oral presentation) 
+6. Zhang, X., **Zhang, Q.\***, Gu, J.*, et al. (2026). DISDIFF: Self-supervised segmentation on histopathology images using diffusion models and distance maps. In _IEEE International Symposium on Biomedical Imaging (ISBI 2026)_. (EI) 
+7. Zhou, J., Lin, Z., **Zhang, Q.**, & Gu, J. (2026). Learning with Euler Non-negative Representation for Robust Pattern Analysis. *Expert Systems with Applications*, 132229. (SCIE, JCR Q1)
+8. Zhou, J., **Zhang, Q.**, & Gu, J. (2026). Sparse subspace learning machine for pattern classification. *Information Sciences*, 123193. (SCIE, JCR Q1)
+9. Liu, J., **Zhang, Q.**, Wan, Q., Cheng, X., Geng, X., & Ding, W. (2026). DMNet: Detail modulation network with gradient-texture guidance for lightweight image super-resolution. *Journal of King Saud University - Computer and Information Sciences*. (SCIE, JCR Q1)
+10. Ye, X., **Zhang, Q.\***, Wang, Y., Yang, X., Ying, Z., Sun, J., Zhong, Q., & Du, X.\* (2026). Diffbias: Harnessing diffusion models' prediction bias for adversarial patch defense. *Neurocomputing*. (SCIE, JCR Q1)
+11. Wang, J., **Zhang, Q.\***, Zhang, X., Mao, Y., Zhu, Z., & Gong, C. (2025). Dominant Period Multi-Kernel Decomposition Linear for Long Sequence Time-Series Forecasting. In *2025 5th International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC)* (pp. 923-927). IEEE. (EI)
+12. Zhang, X., **Zhang, Q.\***, Wang, J., Ma, J., & Li, P. (2025). Broad Learning System with a ShuffleNet Feature Extractor for Image Classification. In *CBASE 2025* (pp. 45-50). IEEE. (EI, Best Paper Award)
+13. Zhao, W., **Zhang, Q.\***, Shu, T., & Du, X.\* (2025). AirTrace-SA: Air Pollution Tracing for Source Attribution. *Information*, 16(7), 603. (EI, ESCI, JCR Q2)
+14. Zhu, L., Li, Y., Xia, W., Chen, K., Ma, Q., & **Zhang, Q.** (2025). An anti-clutter distance measurement method for IoT linear frequency modulation radar in heavy rainfall environments. *IEEE Internet of Things Journal*, 12(11), 17906-17919. (SCIE, JCR Q1)
+15. Zhao, W., **Zhang, Q.\***, & Shu, T. (2025). Air Pollution Source Tracing by VIME-XGBoost. In *2025 7th International Symposium on Computational and Business Intelligence (ISCBI)* (pp. 34-39). IEEE. (EI)
+16. Zhang, B., **Zhang, Q.\***, Zhang, X., Ye, X., & Duan, J. (2025). Broad Learning Model for Classification with Dual Feature Extraction and Discriminative Group-Sparsity Constraints. In *International Conference on Machine Learning and Computing* (pp. 67-80). (EI)
+17. Ke, J., **Zhang, Q.**, Wang, J., Ding, H., Zhang, P., & Wen, J. (2024). Graph-based referring expression comprehension with expression-guided selective filtering and noun-oriented reasoning. *Pattern Recognition*, 111222. (SCIE, JCR Q1)
+18. Ye, X., **Zhang, Q.\***, Cui, S., Ying, Z., Sun, J., & Du, X.\* (2024). Mitigating Adversarial Attacks in Object Detection through Conditional Diffusion Models. *Mathematics*, 12(19), 3093. (SCIE, JCR Q1)
+19. Long, J., **Zhang, Q.**, Lu, X., Wen, J., Zhao, L., & Xie, W. (2024). Multi-scale locality preserving projection for partial multi-view incomplete multi-label learning. *Neural Networks*, 106748. (SCIE, JCR Q1)
+20. Zhang, X., **Zhang, Q.\***, Li, P., You, J., Sun, J., & Zhou, J. (2024). Multi-Feature Extraction and Selection Method to Diagnose Burn Depth from Burn Images. *Electronics*, 13(18), 3665. (SCIE, JCR Q2)
+21. Du, X., **Zhang, Q.\***, Zhu, J., & Liu, X. (2024). Adaptive unified defense framework for tackling adversarial audio attacks. *Artificial Intelligence Review*, 57(8), 218. (SCIE, JCR Q1)
+22. Zhu, L.*, **Zhang, Q.\***, Chen, K., Ma, Q., Chen, S., Zhang, S., & Yuan, Y. (2024). Lightweight Self-Supervised Recognition of Small-Sample Ships Using Micro-Doppler Signatures and UAV-based UWB Radar. _IEEE Transactions on Instrumentation and Measurement_. (SCIE, JCR Q1)
+23. Zhou, J., **Zhang, Q.**, Zeng, S., Zhang, B., & Fang, L. (2024). Latent linear discriminant analysis for feature extraction via isometric structural learning. _Pattern Recognition_, 110218. (SCIE, JCR Q1)
 
 ## Teaching
 
