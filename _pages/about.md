@@ -33,7 +33,7 @@ I am looking for highly motivated postgraduate and undergraduate students intere
 
 ## Selected Publications
 
-1. Liu, D., Yang, Y., Tang, L., Chen, Y., **Zhang, Q.**, Cui, J., & Wen, J. (2026). CLIP-SGI: A Semantic-Guided and Instance-Consistent Framework for Generalizable Person Re-Identification. _IEEE transactions on image processing_. (SCIE, JCR Q1)
+1. Liu, D., Yang, Y., Tang, L., Chen, Y., **Zhang, Q.**, Cui, J., & Wen, J. (2026). CLIP-SGI: A Semantic-Guided and Instance-Consistent Framework for Generalizable Person Re-Identification. _IEEE Transactions on Image Processing_. (SCIE, JCR Q1)
 2. Zhang, D., **Zhang, Q.**, Hu, Y., Deng, H., Cai, L., Lin, Y., & Xu, Y. (2026). MSI-CCD: A multi-scale interaction framework with consistency–complementarity disentanglement for multi-view diabetic retinopathy grading. _Pattern Recognition_, 114707. (SCIE, JCR Q1)
 3. Chen, Y., **Zhang, Q.**, Liu, W., Liu, Y., Lu, J., Wu, L., & Wen, J. (2026). Propensity-Guided Unbalanced Optimal Transport for Acquisition-Aware Incomplete Multimodal Clinical Prediction. _Information Fusion_, 104654. (SCIE, JCR Q1)
 4. Wang, N., **Zhang, Q.**, Zhang, H., Wang, H., & Weiping, D. (2026). Takagi–sugeno fuzzy inference with kernel virtual cluster nodes for graph-based medical image classification. _Applied Soft Computing_, 116214. (SCIE, JCR Q1)
